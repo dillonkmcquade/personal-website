@@ -3,7 +3,7 @@
 
 body {
   background: #0b000d;
-  background-image: url("zenbg-1.png"), url("zenbg-2.png");
+  background-image: url("ZenBG-1.png"), url("ZenBG-2.png");
   background-repeat: repeat-x, repeat;
   color: white;
   font-family: "Righteous", cursive;
